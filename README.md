@@ -1,6 +1,6 @@
 # DiscordBot-chatgpt
-This is a Discord Bot using AI (Chat GPT) for assistance. I'm enhancing it to act like a real person and understand feelings. For now, it mirrors me and is Spanish-focused. Still in progress, try it out!
 
+This is a Discord Bot using AI (Chat GPT) for assistance. I'm enhancing it to act like a real person and understand feelings. For now, it mirrors me and is Spanish-focused. Still in progress, try it out: https://discord.gg/e7pcsgxtwH  NOW!!
 
 DiscordBot-chatgpt es un bot para Discord que integra la inteligencia artificial de OpenAI, específicamente Chat GPT, para interactuar con los usuarios en tiempo real. El bot, modelado con un contexto de "Alan", un estudiante apasionado por la IA, busca simular conversaciones humanas y responder preguntas basándose en el historial de mensajes y el contexto de la conversación.
 
